@@ -1,0 +1,344 @@
+[
+  {
+    "id": "sc_15333",
+    "name": "Baldone",
+    "quantity": 12,
+    "date": "2020-04-14T22:00:58.658Z"
+  },
+  {
+    "id": "sc_15334",
+    "name": "Baloži",
+    "quantity": 13,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15335",
+    "name": "Olaine",
+    "quantity": 9,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15578",
+    "name": "Salaspils",
+    "quantity": 18,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15336",
+    "name": "Saulkrasti",
+    "quantity": 77,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15596",
+    "name": "Sigulda",
+    "quantity": 26,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15337",
+    "name": "Vangaži",
+    "quantity": 1,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15565",
+    "name": "Ādažu nov.",
+    "quantity": 34,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15338",
+    "name": "Allažu pag.",
+    "quantity": 1,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15344",
+    "name": "Babītes pag.",
+    "quantity": 92,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15366",
+    "name": "Baldones l. t.",
+    "quantity": 3,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15492",
+    "name": "Carnikavas nov.",
+    "quantity": 62,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15504",
+    "name": "Garkalnes nov.",
+    "quantity": 77,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15518",
+    "name": "Inčukalna nov.",
+    "quantity": 15,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15467",
+    "name": "Ķekavas pag.",
+    "quantity": 43,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15379",
+    "name": "Krimuldas pag.",
+    "quantity": 3,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15389",
+    "name": "Mālpils pag.",
+    "quantity": 1,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15395",
+    "name": "Mārupes pag.",
+    "quantity": 82,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15402",
+    "name": "Olaines pag.",
+    "quantity": 63,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15528",
+    "name": "Ropažu nov.",
+    "quantity": 13,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15427",
+    "name": "Salas pag.",
+    "quantity": 7,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15579",
+    "name": "Salaspils l. t.",
+    "quantity": 26,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15439",
+    "name": "Saulkrastu l. t.",
+    "quantity": 30,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15556",
+    "name": "Sējas nov.",
+    "quantity": 9,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15545",
+    "name": "Stopiņu nov.",
+    "quantity": 45,
+    "date": "2020-04-14T22:00:58.659Z"
+  },
+  {
+    "id": "sc_15606",
+    "name": "Cits",
+    "quantity": 3,
+    "date": "2020-04-14T22:00:58.660Z"
+  },
+  {
+    "id": "sc_15314",
+    "name": "Visi sludinājumi",
+    "quantity": 765,
+    "date": "2020-04-14T22:00:58.660Z"
+  },
+  {
+    "id": "sc_15312",
+    "name": "Rīga",
+    "quantity": 321,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15313",
+    "name": "Jūrmala",
+    "quantity": 251,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15314",
+    "name": "Rīgas rajons",
+    "quantity": 765,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15651",
+    "name": "Aizkraukle un rajons",
+    "quantity": 42,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15677",
+    "name": "Alūksne un rajons",
+    "quantity": 18,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15701",
+    "name": "Balvi un rajons",
+    "quantity": 18,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15725",
+    "name": "Bauska un rajons",
+    "quantity": 49,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_16213",
+    "name": "Cēsis un rajons",
+    "quantity": 44,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15832",
+    "name": "Daugavpils un rajons",
+    "quantity": 127,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15863",
+    "name": "Dobele un rajons",
+    "quantity": 28,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15815",
+    "name": "Gulbene un rajons",
+    "quantity": 14,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15887",
+    "name": "Jēkabpils un rajons",
+    "quantity": 31,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15607",
+    "name": "Jelgava un rajons",
+    "quantity": 99,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15915",
+    "name": "Krāslava un rajons",
+    "quantity": 27,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15944",
+    "name": "Kuldīga un rajons",
+    "quantity": 27,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_15967",
+    "name": "Liepāja un rajons",
+    "quantity": 181,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_16002",
+    "name": "Limbaži un rajons",
+    "quantity": 40,
+    "date": "2020-04-14T21:59:55.037Z"
+  },
+  {
+    "id": "sc_16025",
+    "name": "Ludza un rajons",
+    "quantity": 31,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_16053",
+    "name": "Madona un rajons",
+    "quantity": 19,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_15628",
+    "name": "Ogre un rajons",
+    "quantity": 90,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_16081",
+    "name": "Preiļi un rajons",
+    "quantity": 16,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_16105",
+    "name": "Rēzekne un rajons",
+    "quantity": 76,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_16138",
+    "name": "Saldus un rajons",
+    "quantity": 25,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_16162",
+    "name": "Talsi un rajons",
+    "quantity": 37,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_16187",
+    "name": "Tukums un rajons",
+    "quantity": 63,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_15745",
+    "name": "Valka un rajons",
+    "quantity": 17,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_15770",
+    "name": "Valmiera un rajons",
+    "quantity": 46,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_15798",
+    "name": "Ventspils un rajons",
+    "quantity": 81,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_16241",
+    "name": "Cits",
+    "quantity": 8,
+    "date": "2020-04-14T21:59:55.038Z"
+  },
+  {
+    "id": "sc_26495",
+    "name": "Mājas ārpus Latvijas",
+    "quantity": 6,
+    "date": "2020-04-14T21:59:55.038Z"
+  }
+]
