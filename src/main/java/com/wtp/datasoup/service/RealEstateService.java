@@ -13,7 +13,6 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
 
 import java.io.IOException;
@@ -32,16 +31,15 @@ public class RealEstateService {
 
 	@Autowired
 	ApartmentRepository apartmentRepository;
+	private static final String sslvBaseUrl = "https://www.ss.lv";
+	private static final String sslvRealEstate = "/lv/real-estate/";
 
-	@Value("${SSLV_BASE_URL}")
-	private String sslvBaseUrl;
-
-	public List<Apartment> scrapeAptUrl(String url){
-		return parseApartmentElements(scrapeAllPages(getJsoupDocument(url), new Elements()));
+	public List<Apartment> scrapeAptUrl(String url) {
+		return parseApartmentElements(scrapeAllPages(getJsoupDocument(sslvBaseUrl + sslvRealEstate + url), new Elements()));
 	}
 
 	public List<House> scrapeHouseUrl(String url) {
-		return parseHouseElements(scrapeAllPages(getJsoupDocument(url), new Elements()));
+		return parseHouseElements(scrapeAllPages(getJsoupDocument(sslvBaseUrl + sslvRealEstate + url), new Elements()));
 	}
 
 	private Document getJsoupDocument(String path) {
