@@ -1,0 +1,11 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="b4354c90-4b74-42b3-80b7-dec11977b8b9" name="ligaoz">
+      <server host="github.com" />
+    </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="LOGIN" value="ligaoz" />
+    <option name="AUTH_TYPE" value="BASIC" />
+  </component>
+</application>
